@@ -1,6 +1,6 @@
 ## Welcome 👋🏻
 - 👋 Hi, I’m @marinogabri
-- 💻 I’m a computer science student
+- 💻 I’m a computer engineering student
 - 📫 You can reach me on Discord. justgabri#1430
 
 <!---
